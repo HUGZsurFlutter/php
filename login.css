@@ -1,0 +1,42 @@
+.container{
+ width: 500px;
+ height: 350px;
+ text-align: center;
+ margin: 0 auto;
+ background-color:rgba(255, 247, 250, 0.7);
+ margin-top: 160px;
+}
+ 
+input[type="text"],input[type="password"]{
+ margin-top: 20px;
+ height: 45px;
+ width: 300px;
+ font-size: 18px;
+ margin-bottom: 5px;
+ background-color: #fff;
+ padding-left: 40px;
+}
+
+.button1 {
+ background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+}
+
+.button2 {
+ background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+}

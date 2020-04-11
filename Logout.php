@@ -1,0 +1,14 @@
+
+<?php 
+    session_start();
+    if(isset($_GET['Logout']))
+    {
+        session_destroy();
+        header("location:index.php");
+    }
+    
+    echo 'See you soon !';
+    
+    
+ 
+?>
